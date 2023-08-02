@@ -1,0 +1,39 @@
+Hi, My name is Ankush Kumar,
+I am a passionate and enthusiastic Software Engineer, dedicated to continuous learning and growth in my field.
+
+My Previous Experience: 
+Position Name : SOFTWARE ENGINEER INTERN
+Name & Address of the Company : Relinns Technologies, Sector 72, Mohali Punjab
+
+During my software engineer internship, I specialized as a Node.js backend
+engineer, making significant contributions to the company's flagship product,
+BotPenguin. Additionally, I actively participated in various client projects,
+further enhancing my skills and expertise.
+
+Some of my Internship Contributions :
+Two Factor Authentication (2FA) :
+Built the backend for 2FA, adding additional layer of security to the product.
+Features/Functions : Implemented features like enabling/disabling MFA,
+generating secret keys, and creating recovery codes.
+Enabled MFA for various user types, including normal users, white-labeled
+customers, and agency customers.
+
+Message Bird Integration with BotPenguin :
+Integrated BotPenguin with Message Bird to enable SMS functionality for client
+communication.
+Features/Functions : Developed features to send SMS to single customers and
+multiple customers.
+Integrated Message Bird with various platform bots.
+
+Ecopooling :
+Developed a complete backend service from scratch for a module of the carsharing application.
+Features/Functions : Implemented features such as favorite locations,
+declarations, gift provider integration, and WhatsApp bot information.
+
+Notification Service :
+Created a reusable notification service from scratch.
+Features/Functions : Push notification from Firebase,
+email notification from AWS SES
+SMS notification from Twilio.
+
+Looking forward to be part of your tech family .
